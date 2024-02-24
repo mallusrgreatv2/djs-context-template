@@ -84,9 +84,10 @@
     wrap-ansi "^8.1.0"
     wrap-ansi-cjs "npm:wrap-ansi@^7.0.0"
 
-"@mallusrgreat/djs-context@https://github.com/mallusrgreatv2/djs-context":
-  version "1.0.0"
-  resolved "https://github.com/mallusrgreatv2/djs-context#37db049ac643688559faeb7d5069be8a46333763"
+"@mallusrgreat/djs-context@1.0.6":
+  version "1.0.6"
+  resolved "https://registry.yarnpkg.com/@mallusrgreat/djs-context/-/djs-context-1.0.6.tgz#aae650637ffcf75501358c4c792065d20175b276"
+  integrity sha512-w7PpeCSSckqWkZ1iABCmv4A66FVJL3qfOTIrsOzQYN8cmSif/KvVhER0zzVzn+Kqle11/JuGDnTVm82n/BBzMg==
   dependencies:
     discord.js "^14.14.1"
 
