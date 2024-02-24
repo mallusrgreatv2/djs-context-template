@@ -13,4 +13,4 @@ This is a transformed version of my [selfbot handler](https://github.com/mallusr
 
 ## Screenshots
 
-![Image](https://i.imgur.com/odSJyqG.png)
+![Image](https://i.imgur.com/wBtSkoE.png)
