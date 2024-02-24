@@ -1,0 +1,26 @@
+{
+  "name": "djs-context-template",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "build": "tsc && tsc-alias",
+    "clean": "rimraf ./dist",
+    "start": "yarn run clean && yarn run build && node ."
+  },
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5",
+    "glob": "^10.3.10",
+    "zod": "^3.22.4",
+    "zod-error": "^1.5.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.20",
+    "rimraf": "^5.0.5",
+    "tsc-alias": "^1.8.8",
+    "typescript": "^5.3.3"
+  }
+}
