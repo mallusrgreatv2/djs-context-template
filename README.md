@@ -2,7 +2,6 @@
 
 This is a Typescript Discord.js bot template which includes command & event handler. What makes this template special is that it has [djs-context](https://npm.im/djs-context) npm package support, so it is called a "hybrid" command bot (commands can be used with both messages and slash commands)
 
-This is a transformed version of my [selfbot handler](https://github.com/mallusrgreatv2/ts-selfbot-base).
 
 ## Setup
 
